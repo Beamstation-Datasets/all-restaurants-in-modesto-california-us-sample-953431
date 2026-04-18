@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Modesto, California with a population of over 218k. Filtered by the Restaurants category group, this city-level dataset provides business profiles, ratings, review counts, contact information, and competitive benchmarks for the local market. Refreshed weekly.",
+  "config_name": "All Restaurants in Modesto, California, US",
+  "export_job_id": "8cb6d9e0-3be6-43bf-80a1-e7e5b41dc702",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 953431,
+  "location_name": "Modesto",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-modesto-california-us-sample-953431",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/953431/beamstation_953431_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_pct": 9.95,
+  "sample_records": 64,
+  "sample_sha256": "eef2db9c3259dfc7228ffa9b4258bda89bbf25ffac59b68737c397c0feb20fd6",
+  "sample_size_bytes": 225690,
+  "total_records": 643,
+  "updated_at": "2026-04-14T18:16:21.378705+00:00"
+}
