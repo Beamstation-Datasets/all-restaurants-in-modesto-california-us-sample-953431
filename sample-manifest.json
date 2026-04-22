@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8cb6d9e0-3be6-43bf-80a1-e7e5b41dc702",
+  "export_job_id": "909c5c0d-239d-4b8c-9061-0c90d37d730a",
   "id_short": 953431,
-  "published_at": "2026-04-18T07:17:53Z",
+  "published_at": "2026-04-22T19:10:42Z",
   "repo_name": "all-restaurants-in-modesto-california-us-sample-953431",
   "sample_asset_name": "beamstation_953431_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/953431/beamstation_953431_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 64,
-  "sample_sha256": "eef2db9c3259dfc7228ffa9b4258bda89bbf25ffac59b68737c397c0feb20fd6",
-  "sample_size_bytes": 225690,
-  "total_records": 643
+  "sample_records": 48,
+  "sample_sha256": "c322e6d4aebe5c47dcd47516f9e0c39e5884ff9761d48cf0f0abd5da5889944d",
+  "sample_size_bytes": 175106,
+  "total_records": 485
 }
