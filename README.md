@@ -1,6 +1,6 @@
 # All Restaurants in Modesto, California, US
 
-> Free BeamStation sample export with 64 rows and masked direct-contact fields.
+> Free BeamStation sample export with 48 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `953431` |
 | Location | Modesto |
 | Category | Restaurants |
-| Full dataset size | 643 records |
-| Free sample size | 64 records (9.95%) |
-| Last export | 2026-04-14T18:16:21.378705+00:00 |
+| Full dataset size | 485 records |
+| Free sample size | 48 records (9.9%) |
+| Last export | 2026-04-21T20:05:58.081090+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-modesto-california-us-sample-953431/releases/download/sample-latest/beamstation_953431_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
